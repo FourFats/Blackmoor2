@@ -1,6 +1,8 @@
 # Blackmoor2
 Bug tracker and wiki for game Blackmoor2
 
+[![Hallowed Knights Teaser](https://img.youtube.com/vi/gOArlBExl0I/0.jpg)](https://www.youtube.com/watch?v=gOArlBExl0I)
+
 Wiki with FAQ
 
 https://github.com/FourFats/Blackmoor2/wiki
